@@ -14,10 +14,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/esogelola/comp3104/issues"
-  },
-  "homepage": "https://github.com/esogelola/comp3104#readme",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
